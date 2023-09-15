@@ -647,6 +647,9 @@
 .moto-background {
   background-color: #ffffff;
 }
+#moto-text_sys{
+    font-size: 20px;
+}
 .moto-text_system_14 {
   font-weight: 300;
   font-style: normal;
@@ -1350,7 +1353,7 @@
 }
 .moto-widget-menu-link {
   padding: 8px 16px;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 14px;
   position: relative;
   display: block;
